@@ -1,3 +1,7 @@
 .green {
     color: #02aab0;
 }
+
+p#text {
+    font-family: 'Poppins', sans-serif;
+}
